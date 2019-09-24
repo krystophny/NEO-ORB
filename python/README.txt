@@ -24,3 +24,6 @@ Integrators:
 [1] C. G. Albert, S. V. Kasilov, and W. Kernbichler, 
    Symplectic integration with non-canonical quadrature for guiding-center orbits in magnetic confinement devices, 
    Mar. 2019, arXiv:1903.06885. Submitted to J. Comp. Phys
+
+Additionally there is a Jupyter notebook "fieldline_tracing.ipynb" that demonstrates how to implement a field line tracer with explicit-implicit Euler in case one component of the vector potential vanishes due to a gauge choice.
+
